@@ -2,6 +2,9 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.1.0'
 gem 'json'
+gem 'devise'
+gem 'mongo'
+gem 'bson_ext'
 gem 'light_mongo'
 
 group :assets do
@@ -11,6 +14,7 @@ group :assets do
 end
 
 group :development do
+  gem 'jasmine'
   gem 'passenger'
   gem 'capistrano'
   gem 'capybara'
