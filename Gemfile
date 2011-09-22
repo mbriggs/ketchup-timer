@@ -17,12 +17,13 @@ group :development do
   gem 'jasmine'
   gem 'passenger'
   gem 'capistrano'
-  gem 'capybara'
-  gem 'capybara-webkit'
 end
 
 group :test do
-  gem 'cucumber'
+  gem 'cucumber-rails'
+  gem 'capybara'
+  gem 'capybara-webkit'
   gem 'rspec-rails'
+  gem 'spork'
   gem 'fuubar'
 end
