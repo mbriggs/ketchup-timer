@@ -15,6 +15,7 @@ Feature:
     Then I should see the start button
     And the cancel button should be disabled
 
+  @javascript
   Scenario: Starting the timer
     Given I am a user
     When I am on the timer page
