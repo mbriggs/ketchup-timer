@@ -2,10 +2,6 @@ Timer
 =====
 
 As a user
-I want to be able to measure time blocks
-So that I can manage my time more effectively
-
-As a user
 I want to have short breaks
 So that I can learn more effectively
 
@@ -14,5 +10,5 @@ I want to be able to easily see how much time is left in a pomodoro
 So that I am aware of the passage of time
 
 As a user
-I want to be notified of an end of a time block
-So t
+I want to be notified of an end of a pomodoro
+So that I can become more accurate at tracking time

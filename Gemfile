@@ -5,6 +5,7 @@ gem 'json'
 gem 'devise'
 gem 'mongo'
 gem 'bson_ext'
+gem 'haml'
 gem 'light_mongo'
 
 group :assets do
